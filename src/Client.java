@@ -5,4 +5,6 @@ import javax.swing.*;
  */
 public class Client extends JFrame{
 
+    private JTextField textField1;
+    private JFormattedTextField formattedTextField1;
 }
